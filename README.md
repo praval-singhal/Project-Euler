@@ -1,2 +1,2 @@
 # Project-Euler
-My Porject Euler Codes
+My Project Euler Codes
