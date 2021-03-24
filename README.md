@@ -1,2 +1,2 @@
 # Project-Euler
-My Project Euler Codes
+My Project Euler Solution
